@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "CS2",
+        "genre": "FPS"
+    },
+    {
+        "id": 2,
+        "name": "Dota 2",
+        "genre": "MOBA"
+    }
+]
